@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">My Application</string>
-    <string name="button_toast">TOAST</string>
-    <string name="button_count">COUNT</string>
-    <string name="num">100</string>
-</resources>
