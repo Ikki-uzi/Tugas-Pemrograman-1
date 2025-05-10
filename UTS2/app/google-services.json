@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "991155701217",
+    "project_id": "projek-uts-pemrog-mobile1",
+    "storage_bucket": "projek-uts-pemrog-mobile1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991155701217:android:5064faef1042dcfba2fea0",
+        "android_client_info": {
+          "package_name": "com.example.uts2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC_5EzClbkoiScj6QEEq2gBvprXBGfUP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
